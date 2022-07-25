@@ -29,7 +29,6 @@ export default function Contect(){
                 E-mail: 
                 <Link href="mailto:tau7259@gmail.com"> tau7259@gmail.com</Link>
             </div>
-            <div>Phone: +82 010-9201-0750</div>
             <ul >
         <li><Link href="https://github.com/wakhoo"><FontAwesomeIcon icon={faGithubSquare} /></Link></li>
         <li><Link href="https://www.linkedin.com/in/chaewon-jeon-457524178/"><FontAwesomeIcon icon={faLinkedin} /></Link></li>
