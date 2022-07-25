@@ -39,7 +39,7 @@ export default function NavBar(){
                 <a className={router.pathname === "" ? "active":""}>Portfolio</a>
                 </Link></li> */}
             <li><Link href="/blog">
-                <a className={router.pathname === "" ? "active":""}>Post</a>
+                <a className={router.pathname === "" ? "active":""}>Blog Post</a>
                 </Link></li>
             <li>
                 <Link href="/contact">
